@@ -2,6 +2,8 @@
 
 The Complete - Ruby on Rails Developper
 
+Second Update - Git Version Updates
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
